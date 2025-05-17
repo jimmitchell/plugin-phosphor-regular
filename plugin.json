@@ -1,0 +1,8 @@
+{
+	"version": "1.0.0",
+	"title": "Phosphor Regular Icons",
+	"description": "Adds Phosphor Regular icons to your blog, available for use in templates",
+	"includes": [
+		"/css/phosphor-regular-style.css"
+	]  
+}
