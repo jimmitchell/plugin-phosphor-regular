@@ -3,6 +3,7 @@
 	"title": "Phosphor Regular Icons",
 	"description": "Adds Phosphor Regular icons to your blog, available for use in templates",
 	"includes": [
+		"phosphor-regular-preload.html",
 		"/css/phosphor-regular-style.css"
 	]  
 }
